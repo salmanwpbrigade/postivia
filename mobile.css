@@ -1,0 +1,19 @@
+@media (min-width:320px) and (max-width:650px) {
+    .btn-txt{
+        margin-left: 0px;
+        
+    }
+    .login-profiles{
+        margin-top: 0px;
+    }
+    .upper-button {
+        padding-top: 0px;
+    }
+    
+    .lower-button{
+        
+    }
+    .logo{
+        background-color: red;
+    }
+}
